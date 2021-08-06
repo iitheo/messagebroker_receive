@@ -1,2 +1,2 @@
 # messagebroker_receive
-Message Broker for receiving messages
+Message Broker in Go for receiving messages
